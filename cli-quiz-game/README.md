@@ -9,8 +9,12 @@ A terminal-based quiz game that fetches questions from the public Open Trivia AP
 
 ## Set up
 1. **Install dependencies**
-`npm install`
+```
+npm install
+```
 2. **Run Quiz Game**
-`node main.js`
+```
+node main.js
+```
 
 If you find any bugs or ideas I can implement to expand this project, let me know! I would really appreciate it. Have a great day!
